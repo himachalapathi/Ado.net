@@ -1,0 +1,7 @@
+J:\himachalapathi reddy\hima-bizruntime\Ado-net\Ado-net\bin\Debug\Ado-net.exe.config
+J:\himachalapathi reddy\hima-bizruntime\Ado-net\Ado-net\bin\Debug\Ado-net.exe
+J:\himachalapathi reddy\hima-bizruntime\Ado-net\Ado-net\bin\Debug\Ado-net.pdb
+J:\himachalapathi reddy\hima-bizruntime\Ado-net\Ado-net\obj\Debug\Ado-net.csprojAssemblyReference.cache
+J:\himachalapathi reddy\hima-bizruntime\Ado-net\Ado-net\obj\Debug\Ado-net.csproj.CoreCompileInputs.cache
+J:\himachalapathi reddy\hima-bizruntime\Ado-net\Ado-net\obj\Debug\Ado-net.exe
+J:\himachalapathi reddy\hima-bizruntime\Ado-net\Ado-net\obj\Debug\Ado-net.pdb
